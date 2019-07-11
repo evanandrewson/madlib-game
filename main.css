@@ -1,0 +1,10 @@
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+input {
+    border: 10px solid black;
+    padding: 10px;
+    margin: 10px;
+}
